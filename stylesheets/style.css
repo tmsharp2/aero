@@ -114,6 +114,13 @@ body {
 	border-radius:		10px;
 }
 
+input[type=reset]:hover {
+	background-color: black;	
+}
+input[type=reset]:focus {
+	outline: 0;
+}
+
 .fh1 {	
 	font-weight:		bold;
 }
